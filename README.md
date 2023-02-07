@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://dgiovannelli.github.io)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/598503352.svg)](https://zenodo.org/badge/latestdoi/598503352)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/giovannellilab/GiovannelliLab_SOPs/graphs/commit-activity)
 
 Here you will find the data, calibrations and documents relative to the publication of the Standard Operating Practices (SOPs) used in the Giovannelli Lab at the University of Naples Federico II, Italy. The SOPs are also uploaded to our Protocol repository [giovannelli-lab-protocols.readthedocs.io](https://giovannelli-lab-protocols.readthedocs.io/en/latest/) where are regularly updated. We hope that our work might be useful to others in sharing openly the details of their laboratory practices.
