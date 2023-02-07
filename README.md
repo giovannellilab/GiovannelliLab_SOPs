@@ -1,6 +1,6 @@
 # Giovannelli Lab Standard Operating Procedures
 
-<img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="80 px"> 
+<img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="80 px">
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -17,9 +17,8 @@ If you decide to cite us, besides the specific paper where you have found the SO
 
 General protocols:
 
->Giovannelli, D and the Giovanelli Lab members. 2020. Digital collection of the wet bench, field and in silico protocols used by the Giovannelli Lab. doi: 10.5281/zenodo.3723306*
+>Giovannelli, D and the Giovanelli Lab members. 2020. Digital collection of the wet bench, field and in silico protocols used by the Giovannelli Lab. doi: 10.5281/zenodo.3723306
 
 Major ions by ion chromatography:
 
 >Correggia M, di Iorio L, Bastianoni AB, Yucel M, Cordone A, Giovannelli D. 2023. Standard Operating Procedure for the analysis of major ions in hydrothermal fluids by Ion Chromatography. OSF preprint, doi: 10.31219/osf.io/jqnx3
-
