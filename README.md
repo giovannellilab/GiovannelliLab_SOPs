@@ -25,4 +25,4 @@ Major ions by ion chromatography:
 
 Biometals and trace elements by ICP-MS:
 
->
+>Correggia M, di Iorio L, Bastianoni AB, Yucel M, Cordone A, Giovannelli D. 2023. Standard Operating Procedure for the analysis of trace elements in hydrothermal fluids by Inductively Coupled Plasma Mass Spectrometry (ICP-MS). OSF preprint, doi: 10.31219/osf.io/rc2es
