@@ -22,3 +22,7 @@ General protocols:
 Major ions by ion chromatography:
 
 >Correggia M, di Iorio L, Bastianoni AB, Yucel M, Cordone A, Giovannelli D. 2023. Standard Operating Procedure for the analysis of major ions in hydrothermal fluids by Ion Chromatography. OSF preprint, doi: 10.31219/osf.io/jqnx3
+
+Biometals and trace elements by ICP-MS:
+
+>
