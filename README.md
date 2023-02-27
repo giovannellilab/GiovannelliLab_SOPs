@@ -12,6 +12,8 @@
 
 Here you will find the data, calibrations and documents relative to the publication of the Standard Operating Practices (SOPs) used in the Giovannelli Lab at the University of Naples Federico II, Italy. The SOPs are also uploaded to our Protocol repository [giovannelli-lab-protocols.readthedocs.io](https://giovannelli-lab-protocols.readthedocs.io/en/latest/) where are regularly updated. We hope that our work might be useful to others in sharing openly the details of their laboratory practices.
 
+License Creative Commonc CC-BY 4.0.
+
 ## Credits
 If you decide to cite us, besides the specific paper where you have found the SOPs please cite also:
 
